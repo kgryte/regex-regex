@@ -26,7 +26,10 @@
     "regex",
     "regexp",
     "regular",
-    "expression"
+    "expression",
+    "string",
+    "pattern",
+    "flags"
   ],
   "bugs": {
     "url": "https://github.com/kgryte/regex-regex/issues"
